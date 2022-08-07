@@ -1,2 +1,2 @@
 # animal-trading-cards
-web-based trading card using HTML and CSS
+web-based trading card using HTML and CSS.
